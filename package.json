@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/ogesour/professionalPortfolio/issues"
   },
-  "homepage": "https://github.com/ogesour/professionalPortfolio#readme",
+  "homepage": "https://github.com/ogesour/professionalPortfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
